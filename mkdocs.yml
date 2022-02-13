@@ -1,0 +1,19 @@
+site_name: My Docs
+site_author: JotaroKujo0525
+site_description: >-
+  The documentation of my discord bots and myself!
+
+
+theme:
+  name: "readthedocs"
+  logo: "./jotaroavatar.png"
+
+nav:
+    - Home: index.md
+    - Dio Brando Documentation: 'dio-brando-documentation/introduction.md'
+    - Dio Brando Commands: 'dio-brando-documentation/Commands/commands.md'
+
+    
+
+    
+copyright: Copyright &copy; 2021-2022 Jotaro Kujo#0525
