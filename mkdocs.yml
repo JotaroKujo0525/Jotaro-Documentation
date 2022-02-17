@@ -6,7 +6,7 @@ site_description: >-
 
 theme:
   name: "material"
-  logo: "./jotaroogavatar.png"
+  logo: "https://raw.githubusercontent.com/JotaroKujo0525/Jotaro-Documentation/main/jotaroogavatar.png"
 
 nav:
     - Home: index.md
