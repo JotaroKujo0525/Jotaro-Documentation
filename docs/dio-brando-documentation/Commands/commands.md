@@ -19,3 +19,40 @@
 - **DESCRIPTION**: Shows info about the bot
 <img src='https://cdn.discordapp.com/attachments/873173567687241739/942335751767621682/about.png'>
 
+---
+
+## Fun commands
+
+>- snake
+
+- **DESCRIPTION**: Summons a snake game 
+
+<img src=''>
+
+<br>
+
+>- pop-it
+
+- **DESCRIPTION**: Summons a pop-it game where you can do all you want :D
+
+<img src=''>
+
+<br>
+
+>- calculator
+
+- **DESCRIPTION**: Summons a calculator
+
+<img src=''>
+
+<br>
+
+>- game
+
+- **DESCRIPTION**: Summons a discord yt game, but a little important note, you can onl do youtube *together* for now
+
+<img src=''>
+
+<br>
+
+>- 
