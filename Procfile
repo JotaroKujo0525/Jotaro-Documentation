@@ -1,1 +1,1 @@
-web: python start.py
+web: mkdocs serve -a 0.0.0.0:80
