@@ -55,4 +55,58 @@
 
 <br>
 
->- 
+## Radioplay commands
+
+>- radioplay
+
+- **DESCRIPTION**: Plays lofi radio where you can listen to
+
+<img src='https://media.discordapp.net/attachments/873173634276012112/944893342209163324/radioplay.png?width=519&height=468'>
+
+<br>
+
+>- radiovolume
+
+- **DESCRIPTION**: Controls the volume of the lofi radio. You can make it louder and such.
+
+<img src='https://media.discordapp.net/attachments/873173634276012112/944893342423056404/radiovolume.png'>
+
+<br>
+
+>- radiostop
+
+- **DESCRIPTION**: Stops the radio and disconnects the bot
+
+<img src='https://media.discordapp.net/attachments/873173634276012112/944894005718691880/radiostop.png'>
+
+<br>
+
+## Music commands
+Note: For now, i can't take a screecnshot of every command in this category, because the page will be much longer.
+
+<br>
+
+>- play
+ 
+- **DESCRIPTION**: Plays a song from [Youtube](https://youtube.com)
+
+<img src='https://media.discordapp.net/attachments/873173634276012112/944896263822934046/play.png'>
+
+<br>
+
+>- playspotify
+
+- **DESCRIPTION**: Plays a song thru [spotify](https://open.spotify.com)
+
+<img src='https://media.discordapp.net/attachments/873173634276012112/944896264485605396/playspotify.png?width=653&height=468'>
+
+<br>
+
+>- queue
+
+- **DESCRIPTION**: Shows the queue of the songs being played.
+
+<img src='https://media.discordapp.net/attachments/873173634276012112/944896264171053086/queue.png?width=724&height=468'>
+
+<br>
+
