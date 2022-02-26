@@ -12,6 +12,8 @@ nav:
     - Home: index.md
     - Dio Brando Documentation: 'dio-brando-documentation/introduction.md'
     - Dio Brando Commands: 'dio-brando-documentation/Commands/commands.md'
+    - Jonathan Joestar Documentation: 'jonathan-joestar-docs/introduction.md'
+    - Jonathan Joestar Commands: 'jonathan-joestar-docs/commands.md'
 
     
 
