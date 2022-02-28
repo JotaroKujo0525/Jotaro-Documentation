@@ -10,10 +10,12 @@ theme:
 
 nav:
     - Home: index.md
-    - Dio Brando Documentation: 'dio-brando-documentation/introduction.md'
-    - Dio Brando Commands: 'dio-brando-documentation/Commands/commands.md'
-    - Jonathan Joestar Documentation: 'jonathan-joestar-docs/introduction.md'
-    - Jonathan Joestar Commands: 'jonathan-joestar-docs/commands.md'
+    - Dio Brando Documentation: 
+       Introduction: dio-brando-documentation/introduction.md
+       Commands: dio-brando-documentation/Commands/commands.md
+    - Jonathan Joestar Documentation: 
+        Introduction: jonathan-joestar-docs/introduction.md
+        Commands: jonathan-joestar-docs/commands.md
 
     
 
