@@ -5,7 +5,7 @@
 
 - **DESCRIPTION**: Shows all of the commands of the bot
 
-<img src=''>
+<img src='https://media.discordapp.net/attachments/873173567687241739/948059131078668298/Screenshot_20220301_112751.jpg'>
 
 <br>
 
@@ -13,14 +13,28 @@
 
 - **DESCRIPTION**: Sets the prefix of the bot.
 
+<img src='https://media.discordapp.net/attachments/873173567687241739/948059131611349052/Screenshot_20220301_112816.jpg'>
 
 <br>
 
+# Radio Commands
 
+>- `radioplay`
+
+- **DESCRIPTION**: Plays/begins the lofi radioplay
+
+<br>
+
+>- `radiovolume`
+
+- **DESCRIPTION**: Changes the volume of the radio
+
+<br>
 This is a live demonstration of how the radio commands work, and important note, there is a deployment issue here , basically the recent deployment has not been deleted and caused some errors to occur. And once i resolved it, i am too lazy to make another recording
 
 <video id="video1" width="420" controls autoplay>
 <source src='https://cdn.discordapp.com/attachments/873173567687241739/947796528058212382/Screen_Recording_28-02-2022_5-52-39_pm.mp4' type='video/mp4'>
+<source src='/https://cdn.discordapp.com/attachments/873173567687241739/948056690778075166/radio.webm' type='video/webm'>
 Your browser doesn't support the video tag
 </video>
 
