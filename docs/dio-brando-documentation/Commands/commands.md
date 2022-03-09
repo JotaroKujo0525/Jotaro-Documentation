@@ -1,6 +1,6 @@
 # Information commands
 
->- Help
+>- `help`
 
 - **DESCRIPTION**: Shows all the commands of the bot.
 
@@ -8,13 +8,13 @@
 
 ---
 
->- Avatar 
+>- `avatar`
 
 - **DESCRIPTION**: Shows the author or another person's avatar
 
 <img src='https://cdn.discordapp.com/attachments/873173567687241739/942335728115912725/avatar.png'>
 
->- About
+>- `about`
 
 - **DESCRIPTION**: Shows info about the bot
 <img src='https://cdn.discordapp.com/attachments/873173567687241739/942335751767621682/about.png'>
@@ -23,41 +23,44 @@
 
 ## Fun commands
 
->- snake
+>- `snake`
 
 - **DESCRIPTION**: Summons a snake game 
 
-<img src=''>
+<img src='https://media.discordapp.net/attachments/868293904456355881/950914182671384646/unknown.png'>
 
 <br>
 
->- pop-it
+>- `pop-it`
 
 - **DESCRIPTION**: Summons a pop-it game where you can do all you want :D
 
-<img src=''>
+<img src='https://media.discordapp.net/attachments/868293904456355881/950913664905515028/unknown.png'>
 
 <br>
 
->- calculator
+>- `calculator`
 
 - **DESCRIPTION**: Summons a calculator
 
-<img src=''>
+<img src='https://media.discordapp.net/attachments/868293904456355881/950914111284346910/unknown.png'>
 
 <br>
 
->- game
+>- `game`
 
 - **DESCRIPTION**: Summons a discord yt game, but a little important note, you can onl do youtube *together* for now
 
-<img src=''>
+<video id="video1" width="420" controls autoplay>
+<source src='https://cdn.discordapp.com/attachments/868293904456355881/950915362315194368/game_yt.mp4' type='video/mp4'>
+Your browser doesn't support the video tag
+</video>
 
 <br>
 
 ## Radioplay commands
 
->- radioplay
+>- `radioplay`
 
 - **DESCRIPTION**: Plays lofi radio where you can listen to
 
@@ -65,7 +68,7 @@
 
 <br>
 
->- radiovolume
+>- `radiovolume`
 
 - **DESCRIPTION**: Controls the volume of the lofi radio. You can make it louder and such.
 
@@ -73,7 +76,7 @@
 
 <br>
 
->- radiostop
+>- `radiostop`
 
 - **DESCRIPTION**: Stops the radio and disconnects the bot
 
@@ -86,7 +89,7 @@ Note: For now, i can't take a screecnshot of every command in this category, bec
 
 <br>
 
->- play
+>- `play`
  
 - **DESCRIPTION**: Plays a song from [Youtube](https://youtube.com)
 
@@ -94,7 +97,7 @@ Note: For now, i can't take a screecnshot of every command in this category, bec
 
 <br>
 
->- playspotify
+>- `playspotify`
 
 - **DESCRIPTION**: Plays a song thru [spotify](https://open.spotify.com)
 
@@ -102,7 +105,7 @@ Note: For now, i can't take a screecnshot of every command in this category, bec
 
 <br>
 
->- queue
+>-`queue`
 
 - **DESCRIPTION**: Shows the queue of the songs being played.
 
