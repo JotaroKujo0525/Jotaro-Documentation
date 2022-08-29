@@ -2,16 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/self-stuffs/</loc>
+    <loc>/profile/</loc>
+    <lastmod>2022-08-29T03:24:02+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2022-08-29T03:24:02+00:00</lastmod>
+  </url><url>
+    <loc>/profile/profile/</loc>
     <lastmod>2022-08-29T03:24:02+00:00</lastmod>
   </url><url>
     <loc>/bots/</loc>
     <lastmod>2022-08-28T11:20:13+00:00</lastmod>
   </url><url>
     <loc>/bots/dio-brando/</loc>
-    <lastmod>2022-08-28T11:20:13+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
     <lastmod>2022-08-28T11:20:13+00:00</lastmod>
   </url><url>
     <loc>/categories/</loc>

@@ -1,18 +1,13 @@
 baseURL = ''
 languageCode = 'en-us'
-title = 'Website of Rain Andrew'
+title = "Rain Andrew's Website"
 
 theme = 'hugo-PaperMod'
 
-[params.profileMode]
-	enabled = true
-	title = "Rain Andrew's Website"
-	subtitle = "My very own Portfolio/Profile site"
-	imageUrl = "https://raw.githubusercontent.com/JotaroKujo0525/Jotaro-Documentation/master/457566_cERLBO0O.png"
-	imageTitle = "JotaroProfile"
-	imageWidth = 120
-	imageHeight = 120
+[params.homeInfoParams]
+Title = "Hello there 👋"
+Content = "This is my very own profile website!"
 
-[[params.profileMode.buttons]]
-	name = "Github"
-	url = "https://github.com/JotaroKujo0525"
+[[params.socialIcons]]
+name = "Github"
+url = "https://github.com/JotaroKujo0525"
