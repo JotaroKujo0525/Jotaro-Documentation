@@ -1,7 +1,8 @@
 baseURL = ''
 languageCode = 'en-us'
 title = 'Website of Rain Andrew'
-theme = 'PaperMod'
+
+theme = 'hugo-PaperMod'
 
 [params.homeInfoParams]
 Title = "Hi there wave"
