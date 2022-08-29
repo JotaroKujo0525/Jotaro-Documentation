@@ -1,19 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Website of Rain Andrew</title>
+    <link>/</link>
+    <description>Recent content on Website of Rain Andrew</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Aug 2022 11:20:13 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Aug 2022 11:20:13 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Self Stuffs</title>
+      <link>/self-stuffs/</link>
+      <pubDate>Mon, 29 Aug 2022 03:24:02 +0000</pubDate>
+      
+      <guid>/self-stuffs/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Dio Brando</title>
-      <link>http://example.org/bots/dio-brando/</link>
+      <link>/bots/dio-brando/</link>
       <pubDate>Sun, 28 Aug 2022 11:20:13 +0000</pubDate>
       
-      <guid>http://example.org/bots/dio-brando/</guid>
-      <description></description>
+      <guid>/bots/dio-brando/</guid>
+      <description>Hello and welcome to Dio Brando&amp;rsquo;s Documentation But first, what is dio brando?
+You might&amp;rsquo;ve known him in the anime JoJo&amp;rsquo;s Bizzare Adventure. Click this link for you to understand him more! I&amp;rsquo;ve made a couple of discord bots back then inspired by jojo because i think that&amp;rsquo;d be a litlle funny and to also show off them a little bit. Back then, i was relying on open-source projects to run my bots but now,i&amp;rsquo;ve learned javascript and i&amp;rsquo;m coding all of my bots now myself.</description>
     </item>
     
   </channel>
