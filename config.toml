@@ -1,0 +1,13 @@
+baseURL = ''
+languageCode = 'en-us'
+title = 'Website of Rain Andrew'
+theme = 'PaperMod'
+
+[params.homeInfoParams]
+Title = "Hi there wave"
+Content = "Can be Info, links, about..."
+
+[[params.socialIcons]]
+name = "Github"
+url = "https://github.com/JotaroKujo0525"
+
